@@ -1,0 +1,26 @@
+html {text-align: left;}
+body {font-family:Georgia, 'Times New Roman', Times, serif;}
+header {text-align: center;}
+header {font-size: 0.5em;}
+header {color: darkgreen;}
+#title {background-color: bisque;}
+
+.piatto {text-align: center;}
+.desc {font-size: 0.8em; text-align: center;}
+ 
+
+.prep {text-align: left ;}
+div {text-align: center;}
+  
+
+.credit {text-align: center;}
+
+#featured {color: chocolate;}
+#featured { margin-bottom: 0; font-size: 0.8em;}
+a {margin-top: 0; font-size: 0.8em;}
+
+.prep {padding-left: 150px;}
+.meth {padding-left: 150px;}
+.feat {padding-right:250px;}
+
+hr { border: 0.5px double #05cfc5; }
